@@ -28,9 +28,7 @@ I'm Kushagra, Fullstack developer from <img src="https://image.flaticon.com/icon
 </p>
 
 
-<img alt="KushagraMehta's Portfolio" src="https://github-readme-stats.vercel.app/api/pin/?username=KushagraMehta&repo=KushagraMehta.github.io"/>
-<img  alt="KushagraMehta's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=KushagraMehta&show_icons=true&hide_border=true&count_private=true" />
-<img  alt="KushagraMehta's Github Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KushagraMehta&layout=compact"/>
+<img alt="KushagraMehta's Portfolio" src="https://github-readme-stats.vercel.app/api/pin/?username=KushagraMehta&repo=KushagraMehta.github.io" width="50%"/><img  alt="KushagraMehta's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=KushagraMehta&show_icons=true&hide_border=true&count_private=true" width="50%"/>
 
 ----
 
@@ -39,5 +37,5 @@ I'm Kushagra, Fullstack developer from <img src="https://image.flaticon.com/icon
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Wednesday, 12 August, 23:45 GMT+5:30<br />
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Wednesday, 12 August, 23:52 GMT+5:30<br />
 <p align="center"><img src="https://github.com/KushagraMehta/KushagraMehta/workflows/README%20build/badge.svg" /> 
