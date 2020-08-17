@@ -14,10 +14,10 @@ jobs:
     steps:
       - name: Checkout current repository to Master branch
         uses: actions/checkout@v2
-      - name: Setup NodeJs 14.x
-        uses: actions/setup-node@v2
+      - name: Setup NodeJs 13.x
+        uses: actions/setup-node@v
         with:
-          node-version: "14.x"
+          node-version: "13.x"
       - name: Cache dependencies and build outputs to improve workflow execution time.
         uses: actions/cache@v2
         with:
@@ -27,3 +27,11 @@ jobs:
         run: npm install
       - name: Generate README file
         run: node index.js
+    - name: Commit and push if changed
+      run: |-
+        git diff
+        git config --global user.email "kushagramehta2000@gmail.com"
+        git config --global user.name "KushagraMehta"
+        git add -A
+        git commit -m "Updated README" || exit 0
+        git push
