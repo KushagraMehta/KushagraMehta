@@ -28,7 +28,7 @@ I'm Kushagra, Fullstack developer from <img src="https://image.flaticon.com/icon
 </p>
 
 
-<img alt="KushagraMehta's Portfolio" src="https://github-readme-stats.vercel.app/api/pin/?username=KushagraMehta&repo=KushagraMehta.github.io" width="30%"/><img  alt="KushagraMehta's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=KushagraMehta&show_icons=true&hide_border=true&count_private=true" width="30%"/>
+<img alt="KushagraMehta's Portfolio" src="https://github-readme-stats.vercel.app/api/pin/?username=KushagraMehta&repo=KushagraMehta.github.io" width="30%"/><img  alt="KushagraMehta's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=KushagraMehta&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width="30%"/>
 
 ----
 
@@ -37,5 +37,5 @@ I'm Kushagra, Fullstack developer from <img src="https://image.flaticon.com/icon
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Wednesday, 19 August, 11:40 GMT+5:30<br />
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Wednesday, 19 August, 14:30 GMT+5:30<br />
 <p align="center"><img src="https://github.com/KushagraMehta/KushagraMehta/workflows/README%20build/badge.svg" /> 
