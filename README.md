@@ -35,7 +35,3 @@ I'm Kushagra, Fullstack developer from <img src="https://image.flaticon.com/icon
 <h3>Where to find me</h3>
 <p><a href="https://github.com/KushagraMehta" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>  <a href="https://www.linkedin.com/in/kushagra-mehta-" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
-
-------------
-<p align="center">This <i>README</i> file is generated <b>every Day</b>!</br>Last refresh: Thursday, 3 September, 05:59 GMT+5:30<br />
-<p align="center"><img src="https://github.com/KushagraMehta/KushagraMehta/workflows/README%20build/badge.svg" /> 
